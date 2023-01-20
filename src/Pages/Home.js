@@ -19,7 +19,7 @@ export default function Home({}) {
 
   useEffect(() => {
 
-    fetch("http://localhost:4000/pizzo")
+    fetch("https://react-crud-api-node-9wsn3gbib-vasantharajsingaram.vercel.app/pizzo")
     .then((response) => response.json())
     .then((data) => {
       
