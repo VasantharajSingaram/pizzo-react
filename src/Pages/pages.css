@@ -1,0 +1,15 @@
+#product-listing-container{
+    margin-top: 100px !important;
+    row-gap: 15px !important;
+}
+.row{
+    row-gap: 50px !important; 
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.carts{
+    margin-top: 50px;
+}
