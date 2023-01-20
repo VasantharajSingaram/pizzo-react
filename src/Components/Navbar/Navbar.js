@@ -12,7 +12,7 @@ export default function Navbar() {
         Pizzo
       </a>
       <div className='link-container links'>
-      <Link className='l1' to={'/home'}>Home</Link>
+      <Link className='l1' to={'/'}>Home</Link>
       <Link className='l2' to={'/cart'}> Cart</Link>
      
       </div>
